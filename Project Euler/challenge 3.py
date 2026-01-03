@@ -1,4 +1,3 @@
-primes = []
 n = 600851475143
 factor = 2
 largest = 0
